@@ -72,17 +72,17 @@ Get your frog to all 5 orange end zones at the top of the screen.
 ## 📁 Project Structure
 ```
 Frogger/
-├── Frogger.pde 
-├── FrogUp.png 
-├── FrogDown.png 
-├── FrogLeft.png 
-├── FrogRight.png
-├── FrogLives.png
-├── Car.png 
-├── Racecar.png 
-├── Log.png 
-├── Turtle.png 
-└── README.md 
+├── Frogger.pde          # Main game code 
+├── FrogUp.png           # Frog facing up sprite
+├── FrogDown.png         # Frog facing down sprite
+├── FrogLeft.png         # Frog facing left sprite
+├── FrogRight.png        # Frog facing right sprite
+├── FrogLives.png        # Life indicator icon
+├── Car.png              # Car sprite
+├── Racecar.png          # Racecar sprite
+├── Log.png              # Log sprite
+├── Turtle.png           # Turtle sprite
+└── README.md            # This file
 ```
 ## 🚀 Installation
 
