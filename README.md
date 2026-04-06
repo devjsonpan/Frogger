@@ -1,4 +1,4 @@
-# Frogger 🐸
+# Frogger Arcade Game Remake 🐸
 
 [![Processing](https://img.shields.io/badge/Processing-4.0+-0066CC?style=for-the-badge&logo=processing&logoColor=white)](https://processing.org/)
 
